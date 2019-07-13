@@ -17,6 +17,7 @@ Here is a collection of great web resources to learn about computer graphics.
 
 ## Projects/Repositories
 * [Learn OpenGL](https://github.com/JoeyDeVries/LearnOpenGL), all OpenGL tutorial codes of https://learnopengl.com/
+* [Anton's OpenGL 4 Tutorials book ](https://github.com/capnramses/antons_opengl_tutorials_book), OpenGL tutorial codes by [Anton Gerdelan](http://antongerdelan.net/opengl/)
 * [PRBR](https://github.com/mmp/pbrt-v3), the renderer described in the [Physically Based Rendering : From Theory To Implementation](http://www.pbr-book.org/) book
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer), a tiny render to show how OpenGL and rendering works
 * [Ray Tracing in One Weekend repository](https://github.com/petershirley/raytracinginoneweekend), ray tracer code based on Ray Tracing in One Weekend's book.
